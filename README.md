@@ -23,14 +23,14 @@
 ## 🧠 What I Built
 
 * Time scaling mechanic  
-* Player movement and obstacle interaction  
-* Slow-motion gameplay system  
+* Player movement and interaction system  
+* Slow-motion gameplay logic  
 
 ---
 
 ## 🚀 Features
 
-* Time-based gameplay  
+* Time manipulation gameplay  
 * Responsive controls  
 * Dynamic pacing  
 
